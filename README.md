@@ -1,1 +1,3 @@
-"# Family-Expenditure-Planner" 
+Family-Expenditure-Planner
+
+Python project using Tkinter library
